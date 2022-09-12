@@ -1,1 +1,1 @@
-# paint-github-d5a24
+# Git rota
